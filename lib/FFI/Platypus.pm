@@ -1,4 +1,4 @@
-package FFI::Platypus2;
+package FFI::Platypus;
 
 use strict;
 use warnings;
